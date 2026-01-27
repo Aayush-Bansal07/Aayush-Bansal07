@@ -4,7 +4,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=300&section=header&text=Aayush%20Bansal&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20EEE%20Student%20|%20IoT%20Enthusiast%20|%20Linux%20Power%20User&descAlignY=55&descAlign=50)
 
 <!-- TYPING SVG -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Goated+Programmer+%F0%9F%94%8C;Linux+Enthusiast+%F0%9F%90%A7)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Goated+Programmer+%F0%9F%94%8C;Linux+Enthusiast+%F0%9F%90%A7)
+
 
 
 
@@ -241,28 +242,6 @@ const developer = {
 
 ---
 
-<!-- CONNECT SECTION -->
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate!
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/AayushBansal007/">
-<img src="https://img.shields.io/badge/Challenge_Me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Visit_My_Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
----
 
 ### 💖 Thanks for Visiting!
 
@@ -271,12 +250,5 @@ const developer = {
 **Interested in IoT or Embedded Systems? Let's build something amazing together! ⚡**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=100&section=footer)
-
-</div>
-
-<!-- VISITOR COUNTER -->
-<div align="center">
-  
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
 </div>
