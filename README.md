@@ -29,14 +29,6 @@
 </div>
 <br>
 
-<!-- ABOUT SECTION -->
-<p align="center">
-  <img width="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/this-peak-is-this-peak.gif" />
-</p>
-
----
-
-
 ## 💫 About Me
 
 ```javascript
@@ -226,17 +218,6 @@ const developer = {
 </div>
 
 ---
-
----
-
-<!-- ACHIEVEMENTS -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aayush-Bansal07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
