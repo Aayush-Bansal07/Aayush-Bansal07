@@ -29,7 +29,7 @@
 </div>
 
 <!-- ABOUT SECTION -->
-<img align="right" alt="Coding" width="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/oguricap-oguri-cap.gif" />
+<img align="right" alt="Coding" width="400" height="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/oguricap-oguri-cap.gif" />
 
 ## 💫 About Me
 
