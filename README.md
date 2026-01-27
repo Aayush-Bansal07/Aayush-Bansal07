@@ -16,15 +16,6 @@
 
 ### Electrical & Electronics Engineering Student | IoT Enthusiast | Linux Advocate
 
-## ⚡ Quick Snapshot
-
-- 🎓 EEE Student | Embedded & IoT Focus  
-- 🔌 Obsessed with hardware–software integration  
-- 🐧 Linux daily driver (Fedora / Ubuntu / Mint)  
-- 💡 Believe the best learning happens outside textbooks  
-
----
-
 ## 💻 Tech Arsenal
 
 ### 🧠 Languages
