@@ -14,17 +14,7 @@
 
 ## 🚀 About Me
 
-I love turning **ideas into working hardware** and **code into real-world impact**.  
-As an Electrical & Electronics Engineering student, I sit at the intersection of **circuits, code, and connectivity**, building IoT systems that actually *do things* — not just blink LEDs 😉
-
-When I’m not debugging firmware at 2 AM, you’ll find me:
-- tweaking my Linux setup for the 100th time,
-- experimenting with sensors & microcontrollers,
-- or breaking things just to learn how they work.
-
-**In short:** I build, I break, I fix, I learn — and I repeat. 🔁
-
----
+### Electrical & Electronics Engineering Student | IoT Enthusiast | Linux Advocate
 
 ## ⚡ Quick Snapshot
 
@@ -60,7 +50,6 @@ When I’m not debugging firmware at 2 AM, you’ll find me:
 
 ## 🔥 What I’m Currently Building
 
-- 🏠 **Smart IoT Systems** – home automation, sensors, dashboards  
 - 🤖 **Embedded Firmware** – ESP32, Arduino, low-level C/C++  
 - 🌐 **Full-Stack Apps** – React frontends + Python backends  
 - 🐧 **Linux Experiments** – custom setups, scripts, workflows  
@@ -83,11 +72,6 @@ When I’m not debugging firmware at 2 AM, you’ll find me:
 
 ## 🎯 Areas I’m Deeply Into
 
-### 🔌 IoT & Smart Tech
-- Smart Homes & Automation
-- Sensor Data Collection
-- Edge Computing
-
 ### 🧩 Embedded Systems
 - Arduino, ESP32, Raspberry Pi
 - Bare-metal & RTOS basics
@@ -109,12 +93,6 @@ When I’m not debugging firmware at 2 AM, you’ll find me:
 
 ### 🏠 **Smart Home Controller**
 ESP32-based automation system with web dashboard and real-time control
-
-### 🤖 **Sensor Network**
-Wireless sensor nodes for real-time environmental monitoring
-
-### 🌐 **Portfolio Website**
-Fast, minimal React-based personal site hosted on Linux
 
 ---
 
