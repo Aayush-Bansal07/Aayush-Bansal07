@@ -29,13 +29,13 @@
 </div>
 
 <!-- ABOUT SECTION -->
-<img align="right" alt="Coding" width="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/ltg-low-tier-god.gif" />
+<img align="right" alt="idk" width="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/this-peak-is-this-peak.gif" />
 
 ## 💫 About Me
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Aayush",
     location: "India 🇮🇳",
     education: "Electrical & Electronics Engineering",
     passion: "IoT & Embedded Systems",
