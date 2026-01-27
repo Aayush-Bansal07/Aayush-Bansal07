@@ -13,17 +13,13 @@
 ---
 
 ## 🚀 About Me
+I'm passionate about bridging the gap between hardware and software, creating intelligent IoT solutions that make a difference. As an Electrical & Electronics Engineering student, I combine my knowledge of circuits and embedded systems with modern programming to build smart, connected devices. When I'm not coding or tinkering with hardware, you'll find me exploring the latest in embedded systems, optimizing my Linux setup, or contributing to open-source projects.
+Quick Facts:
 
-```javascript
-const me = {
-    education: "Electrical & Electronics Engineering",
-    passion: ["IoT Systems", "Embedded Development", "Open Source"],
-    currentFocus: "Building smart, connected devices",
-    funFact: "I daily drive Linux and love optimizing my workflow"
-};
-```
-
-I'm passionate about bridging the gap between hardware and software, creating intelligent IoT solutions that make a difference. When I'm not coding or tinkering with circuits, you'll find me exploring the latest in embedded systems and automation.
+🎓 Studying Electrical & Electronics Engineering
+🔌 Passionate about IoT and Embedded Systems
+🐧 Linux daily driver (Fedora, Ubuntu, Mint)
+💡 Love building things that connect the physical and digital worlds
 
 ---
 
@@ -63,11 +59,11 @@ I'm passionate about bridging the gap between hardware and software, creating in
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush-Bansal07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Bansal07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Bansal07&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
