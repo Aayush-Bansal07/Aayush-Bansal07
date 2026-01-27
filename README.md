@@ -27,6 +27,7 @@
 </p>
 
 </div>
+<br>
 
 <!-- ABOUT SECTION -->
 <p align="center">
