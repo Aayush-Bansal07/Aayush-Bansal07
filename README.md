@@ -29,7 +29,7 @@
 </div>
 
 <!-- ABOUT SECTION -->
-<img align="right" alt="Coding" width="400" height="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/oguricap-oguri-cap.gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/ltg-low-tier-god.gif" />
 
 ## 💫 About Me
 
@@ -44,7 +44,6 @@ const developer = {
     
     currentlyBuilding: {
         hardware: ["ESP32 Projects", "Arduino Automation", "Raspberry Pi"],
-        software: ["IoT Dashboards", "Sensor Networks", "Smart Devices"],
         web: ["React Applications", "Real-time Monitoring Systems"]
     },
     
@@ -53,13 +52,6 @@ const developer = {
         distros: ["Fedora", "Ubuntu", "Linux Mint"],
         tools: ["VS Code", "Git", "Terminal"]
     },
-    
-    goals2026: [
-        "Build Production-Level IoT Systems",
-        "Contribute to Open Source Hardware Projects",
-        "Master Embedded Linux Development",
-        "Create Smart Home Automation Platform"
-    ],
     
     funFact: "I drink Matcha and listen to clairo 🤝"
 };
