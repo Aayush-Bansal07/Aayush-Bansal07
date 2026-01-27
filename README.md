@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm Aayush
+# 👋 Hey! I'm [Aayush]
 
 <div align="center">
-  
-### Electrical & Electronics Engineering Student | IoT Enthusiast | Linux Advocate
+
+### ⚡ Electrical & Electronics Engineer in the Making | 🧠 IoT Builder | 🐧 Linux Power User
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-bansal-03ab75308/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
@@ -13,31 +13,43 @@
 ---
 
 ## 🚀 About Me
-I'm passionate about bridging the gap between hardware and software, creating intelligent IoT solutions that make a difference. As an Electrical & Electronics Engineering student, I combine my knowledge of circuits and embedded systems with modern programming to build smart, connected devices. When I'm not coding or tinkering with hardware, you'll find me exploring the latest in embedded systems, optimizing my Linux setup, or contributing to open-source projects.
-Quick Facts:
 
-🎓 Studying Electrical & Electronics Engineering
-🔌 Passionate about IoT and Embedded Systems
-🐧 Linux daily driver (Fedora, Ubuntu, Mint)
-💡 Love building things that connect the physical and digital worlds
+I love turning **ideas into working hardware** and **code into real-world impact**.  
+As an Electrical & Electronics Engineering student, I sit at the intersection of **circuits, code, and connectivity**, building IoT systems that actually *do things* — not just blink LEDs 😉
+
+When I’m not debugging firmware at 2 AM, you’ll find me:
+- tweaking my Linux setup for the 100th time,
+- experimenting with sensors & microcontrollers,
+- or breaking things just to learn how they work.
+
+**In short:** I build, I break, I fix, I learn — and I repeat. 🔁
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Quick Snapshot
 
-### Languages
+- 🎓 EEE Student | Embedded & IoT Focus  
+- 🔌 Obsessed with hardware–software integration  
+- 🐧 Linux daily driver (Fedora / Ubuntu / Mint)  
+- 💡 Believe the best learning happens outside textbooks  
+
+---
+
+## 💻 Tech Arsenal
+
+### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Development
+### 🌐 Web & UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Operating Systems & Tools
+### 🐧 Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -46,64 +58,75 @@ Quick Facts:
 
 ---
 
-## 🌟 What I'm Working On
+## 🔥 What I’m Currently Building
 
-- 🔌 **IoT Projects**: Developing smart home automation systems and sensor networks
-- 🐧 **Linux Exploration**: Constantly learning and customizing my Linux environment
-- 🌐 **Full-Stack Development**: Building responsive web applications with React
-- 🤖 **Embedded Systems**: Creating efficient firmware for microcontrollers
+- 🏠 **Smart IoT Systems** – home automation, sensors, dashboards  
+- 🤖 **Embedded Firmware** – ESP32, Arduino, low-level C/C++  
+- 🌐 **Full-Stack Apps** – React frontends + Python backends  
+- 🐧 **Linux Experiments** – custom setups, scripts, workflows  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub in Numbers
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush-Bansal07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Bansal07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=Aayush-Bansal07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Bansal07&theme=radical&hide_border=true&background=0D1117)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Bansal07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Bansal07&theme=radical&hide_border=true&background=0D1117" />
 
 </div>
 
 ---
 
-## 🎯 Areas of Interest
+## 🎯 Areas I’m Deeply Into
 
-```python
-interests = {
-    "IoT": ["Smart Home", "Sensor Networks", "Edge Computing"],
-    "Hardware": ["Arduino", "ESP32", "Raspberry Pi"],
-    "Software": ["System Programming", "Web Development", "Automation"],
-    "Linux": ["Shell Scripting", "System Administration", "Custom Ricing"]
-}
-```
+### 🔌 IoT & Smart Tech
+- Smart Homes & Automation
+- Sensor Data Collection
+- Edge Computing
 
----
+### 🧩 Embedded Systems
+- Arduino, ESP32, Raspberry Pi
+- Bare-metal & RTOS basics
+- Power-efficient firmware
 
-## 🔥 Featured Projects
+### 💻 Software
+- System Programming (C/C++)
+- Web Apps (React)
+- Python Automation
 
-<!-- Add your best projects here -->
-### 🏠 [Project 1](link-to-repo)
-Project in progress
-
-### 🤖 [Project 2](link-to-repo)
-
-
-### 🌐 [Project 3](link-to-repo)
-
+### 🐧 Linux & DevOps
+- Shell scripting
+- System tuning
+- Custom desktop setups
 
 ---
 
-## 📫 Let's Connect!
+## 🌟 Featured Projects
 
-I'm always excited to collaborate on innovative IoT projects or discuss the latest in embedded systems and open-source technology. Feel free to reach out!
+### 🏠 **Smart Home Controller**
+ESP32-based automation system with web dashboard and real-time control
+
+### 🤖 **Sensor Network**
+Wireless sensor nodes for real-time environmental monitoring
+
+### 🌐 **Portfolio Website**
+Fast, minimal React-based personal site hosted on Linux
+
+---
+
+## 📫 Let’s Build Something Cool
+
+If you’re into **IoT, embedded systems, Linux, or open-source**, we’ll get along just fine 🤝  
+Feel free to connect or collaborate!
 
 <div align="center">
 
-**"The best way to predict the future is to invent it."** - Alan Kay
+**“The best way to predict the future is to invent it.” – Alan Kay**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aayush-Bansal07&color=blueviolet&style=for-the-badge)](https://github.com/Aayush-Bansal07)
 
 </div>
