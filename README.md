@@ -29,7 +29,12 @@
 </div>
 
 <!-- ABOUT SECTION -->
-<img align="right" alt="idk" width="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/this-peak-is-this-peak.gif" />
+<p align="center">
+  <img width="400" src="https://github.com/Aayush-Bansal07/Aayush-Bansal07/blob/main/this-peak-is-this-peak.gif" />
+</p>
+
+---
+
 
 ## 💫 About Me
 
