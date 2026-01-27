@@ -152,7 +152,7 @@ const developer = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/AayushBansal007/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AayushBansal007?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/AayushBansal007/)
 
 </div>
 
@@ -224,15 +224,6 @@ const developer = {
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-## 💭 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
 ---
 
 <!-- ACHIEVEMENTS -->
@@ -275,16 +266,7 @@ const developer = {
 
 **Interested in IoT or Embedded Systems? Let's build something amazing together! ⚡**
 
-**If you like my projects, consider giving them a ⭐**
-
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=100&section=footer)
-
-</div>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Aayush-Bansal07/Aayush-Bansal07/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
