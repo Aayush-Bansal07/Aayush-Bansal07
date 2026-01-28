@@ -165,45 +165,6 @@ const developer = {
 
 ---
 
-<!-- SKILLS BREAKDOWN -->
-<div align="center">
-
-## 🎓 Skills & Expertise
-
-<table>
-<tr>
-<td><b>Embedded Systems</b></td>
-<td>Arduino • ESP32 • Raspberry Pi • PIC Microcontrollers</td>
-</tr>
-<tr>
-<td><b>IoT Protocols</b></td>
-<td>MQTT • HTTP/HTTPS • WebSockets • Serial Communication</td>
-</tr>
-<tr>
-<td><b>Programming</b></td>
-<td>C • C++ • Python • Java • JavaScript</td>
-</tr>
-<tr>
-<td><b>Web Development</b></td>
-<td>React • HTML5 • CSS3 • JavaScript • REST APIs</td>
-</tr>
-<tr>
-<td><b>Linux Systems</b></td>
-<td>Bash Scripting • System Administration • Kernel Basics</td>
-</tr>
-<tr>
-<td><b>Hardware</b></td>
-<td>Circuit Design • PCB Layout • Sensor Integration</td>
-</tr>
-<tr>
-<td><b>Version Control</b></td>
-<td>Git • GitHub • Collaborative Development</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ---
 
