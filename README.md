@@ -106,7 +106,7 @@ const developer = {
 |---------|-------------|------------|
 | 🏠 [**Smart Home Hub**](https://github.com/YOUR_USERNAME/project1) | IoT-based home automation system | ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=Espressif&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🌡️ [**Environmental Monitor**](https://github.com/YOUR_USERNAME/project2) | Real-time sensor network for environmental data | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| 📊 [**IoT Dashboard**](https://github.com/YOUR_USERNAME/project4) | Web-based monitoring for IoT devices | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**IoT Dashboard**](https://github.com/YOUR_USERNAME/project4) | Web-based monitoring for IoT devices | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 </div>
 
 ---
