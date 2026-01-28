@@ -165,20 +165,6 @@ const developer = {
 
 ---
 
-<!-- CURRENT FOCUS -->
-<div align="center">
-
-## 🎯 Current Focus
-
-📚 **Learning:** Embedded Linux & Real-Time Operating Systems  
-🔭 **Working on:** IoT-based Smart Agriculture System  
-🤝 **Open to:** Collaborating on IoT & Hardware Projects  
-💬 **Ask me about:** Embedded Systems, Linux, IoT, C/C++  
-
-</div>
-
----
-
 <!-- SKILLS BREAKDOWN -->
 <div align="center">
 
