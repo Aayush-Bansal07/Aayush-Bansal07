@@ -95,12 +95,10 @@ const developer = {
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Smart Home Hub**](https://github.com/YOUR_USERNAME/project1) | IoT-based home automation system | ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=Espressif&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Environmental Monitor**](https://github.com/YOUR_USERNAME/project2) | Real-time sensor network for environmental data | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**VibeSRM**](https://github.com/Aayush-Bansal07/VibeSRM) | Real-time campus hub with holographic chat and live occupancy heatmaps | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| [**3D Overworld Game**](https://github.com/Aayush-Bansal07/Cpp-Game) | First-person 3D overworld scene with OpenGL, featuring dynamic lighting and fog effects | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) |
 
 ---
 
