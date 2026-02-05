@@ -48,7 +48,7 @@ const developer = {
     dailyDriver: {
         os: "Linux 🐧",
         distros: ["Fedora", "Ubuntu", "Linux Mint"],
-        tools: ["VS Code", "Git", "Terminal"]
+        tools: ["AntiGravity", "Git", "Terminal"]
     },
     
     funFact: "I drink Matcha and listen to clairo 🤝"
