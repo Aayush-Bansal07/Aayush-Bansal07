@@ -96,9 +96,7 @@ const developer = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**VibeSRM**](https://github.com/Aayush-Bansal07/VibeSRM) | Real-time campus hub with holographic chat and live occupancy heatmaps | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| [**3D Overworld Game**](https://github.com/Aayush-Bansal07/Cpp-Game) | First-person 3D overworld scene with OpenGL, featuring dynamic lighting and fog effects | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) |
-
----
+| [**Ultrasonic Distance Monitor**](https://github.com/YOUR_USERNAME/ultrasonic-arduino) | Real-time distance measurement system using HC-SR04 with visual alerts and serial monitoring | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/-Embedded%20C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![IoT](https://img.shields.io/badge/-IoT-FF6F00?style=flat-square&logo=internet-of-things&logoColor=white) |
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
