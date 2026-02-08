@@ -38,16 +38,16 @@ const developer = {
     education: "Electrical & Electronics Engineering",
     passion: "IoT & Embedded Systems",
     
-    languages: ["C", "C++", "Python", "Java", "JavaScript"],
+    languages: ["C", "C++", "Python"],
     
     currentlyBuilding: {
-        hardware: ["ESP32 Projects", "Arduino Automation", "Raspberry Pi"],
-        web: ["React Applications", "Real-time Monitoring Systems"]
+        hardware: ["ESP32 Projects", "Arduino Automation"],
+        web: ["Real-time Monitoring Systems"]
     },
     
     dailyDriver: {
         os: "Linux 🐧",
-        distros: ["Fedora", "Ubuntu", "Linux Mint"],
+        distros: ["Ubuntu", "Linux Mint"],
         tools: ["AntiGravity", "Git", "Terminal"]
     },
     
@@ -68,7 +68,6 @@ const developer = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web Development
@@ -78,7 +77,6 @@ const developer = {
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
