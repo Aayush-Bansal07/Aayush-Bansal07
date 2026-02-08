@@ -1,7 +1,7 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=300&section=header&text=Aayush%20Bansal&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20EEE%20Student%20|%20IoT%20Enthusiast%20|%20Linux%20Power%20User&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=300&section=header&text=Aayush%20Bansal&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20EEE%20Student%20|%20IoT%20Enthusiast%20|%20Linux%20User&descAlignY=55&descAlign=50)
 
 <!-- TYPING SVG -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Goated+guy+%F0%9F%94%8C;Linux+Enthusiast+%F0%9F%90%A7)
